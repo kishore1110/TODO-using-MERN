@@ -1,0 +1,26 @@
+.button {
+    background-color: #32eeb6;
+    border:2px solid black;
+    border-radius: 5px;
+}
+.text {
+    background-color: peachpuff;
+    border:2px solid  black;
+    border-radius: 10px;
+    padding: 5px;
+}
+.block {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.tasks {
+    background-color: blue;
+    padding: 1px;
+    border: 5px solid rgb(252, 5, 5);
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.taskCompleted {
+    text-decoration: line-through;
+}
